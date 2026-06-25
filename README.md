@@ -1,2 +1,2 @@
-# HDRN
-Hierarchical Disentanglement and Refinement Network
+# HSDN
+Hierarchical Synergistic Disentanglement Network
